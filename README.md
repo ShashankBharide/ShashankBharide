@@ -3,7 +3,7 @@
 **Senior Software Engineer** | 6+ Years in **Banking** 🏦 and **Telecom** 📡  
 Specialized in **Java** development, **Enterprise Automation**, and **Microservices** using **Spring Boot**, **Camunda**, and **TeamCity** for CI/CD on **OpenShift**.
 
-[🌐 LinkedIn Profile](https://www.linkedin.com/in/shashankbharide)
+[🌐 LinkedIn Profile](https://www.linkedin.com/in/shashank-bharide-3bb634202/)
 
 ---
 
